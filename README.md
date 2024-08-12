@@ -16,8 +16,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="DJANGO" width="40" height="40"/> </a> 
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -26,11 +27,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a> 
 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<a href="https://www.css3.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakti47&show_icons=true&locale=en&layout=compact" alt="shakti47" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakti47&show_icons=true&locale=en" alt="shakti47" /></p>
 
